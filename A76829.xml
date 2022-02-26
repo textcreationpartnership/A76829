@@ -1,0 +1,331 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolved upon the question· Or A question resolved concerning the right which the King hath to Hull, or any other fort or place of strength for the defence of the kingdome. Wherein is likewise proved, that neither the setling of the militia as tis done by the Parliament, nor the keeping of Hull by Sir Iohn Hotham, nor any other act that the Parliament have yet done is illegall, but necessary, just, and according to that power which the law hath given them. By Peter Bland of Grays-Inne Gent.</title>
+            <author>Bland, Peter, of Gray's Inne.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76829</idno>
+            <idno type="STC">Wing B3162</idno>
+            <idno type="STC">Thomason E119_4</idno>
+            <idno type="STC">ESTC R10865</idno>
+            <idno type="EEBO-CITATION">99858895</idno>
+            <idno type="PROQUEST">99858895</idno>
+            <idno type="VID">110955</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76829)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110955)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E119[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Resolved upon the question· Or A question resolved concerning the right which the King hath to Hull, or any other fort or place of strength for the defence of the kingdome. Wherein is likewise proved, that neither the setling of the militia as tis done by the Parliament, nor the keeping of Hull by Sir Iohn Hotham, nor any other act that the Parliament have yet done is illegall, but necessary, just, and according to that power which the law hath given them. By Peter Bland of Grays-Inne Gent.</title>
+                  <author>Bland, Peter, of Gray's Inne.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Matthew Walbancke,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Sep: 29.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hull (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110955:1" rendition="simple:additions"/>
+            <p>RESOLVED VPON THE QUESTION.</p>
+            <p>OR A Queſtion Reſolved concerning the Right which the King hath to <hi>Hull,</hi> or any o<g ref="char:EOLhyphen"/>ther Fort or place of ſtrength for the defence of the Kingdome.</p>
+            <p>Wherein is likewiſe proved, that neither the ſetling of the <hi>Mi<g ref="char:EOLhyphen"/>litia</hi> as tis done by the Parliament, nor the keeping of <hi>Hull</hi> by Sir <hi>Iohn Hotham,</hi> nor any other Act that the Parlia<g ref="char:EOLhyphen"/>ment have yet done is illegall, but neceſſary, juſt, and according to that power which the Law hath given them.</p>
+            <p>By <hi>Peter Bland</hi> of <hi>Grays-Inne</hi> Gent.</p>
+            <p>Printed for <hi>Matthew Walbancke,</hi> 1642.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:110955:2"/>
+            <pb n="3" facs="tcp:110955:2"/>
+            <head>TO THE WORTHY TO be honoured IOHN PYM Eſquier, one of the Members of the Honourable Houſe of Commons in Parliament aſſembled.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen my reaſon is made known, I hope my preſumption in dedicating theſe poore lines to your worthy ſelfe will appeare more pardonable: I wrote, not out of an ambitious thought of in<g ref="char:EOLhyphen"/>ſtructing the profoundeſt iudgements, but only to ſatisfie them, that for want of knowledge, lay ſcandalous imputations, not only upon that honourable Houſe of Parliament in generall whereof you are a member, but eſpecially and in particular upon your upright ſelfe; for my owne part, I am the leaſt mem<g ref="char:EOLhyphen"/>ber of this diſtracted Kingdome, but have as good a right to the benefit of thoſe lawes this happie Parliament hath enacted as the greateſt, and therefore am bound by way of thankefulneſſe to vindicate their iuſt intents and actions, againſt the opprobrious language of malignant Spirits: to the doing of which, this is my weake but harty endeavour if you pleaſe to give it patronage it may deſerve the preſſe, therefore let your acceptance adde courage to the future imployments of him, who is both to your ſelfe and to his country.</p>
+            <closer>
+               <signed>
+                  <hi>A faithfull ſervant</hi> PETER BLAND.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:110955:3"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Ho ere thou beeſt, read with a ſpirit as free from Faction as your Authour, who deſires neither to trample on Maiestie, nor deſpiſe the authority of ſo high a Court as that of Parliament, but to give his due reſpects to both: What you finde amiſſe gently correct; his ambition is either to convince others more ignorant, or be ſatisfied from others more knowing than himſelfe. He wrote not this as if the Parliament knew not Law ſufficient to iuſtifie their own actions, but to deſtroy their won<g ref="char:EOLhyphen"/>der whom he hath heard admire that the Parliament did not prove their own acts by viſible Law, as well as diſprove the Kings: time and greater engagements will not permit them to ſhew every pri<g ref="char:EOLhyphen"/>vate man the publicke necesſities; 'Tis ſufficient they diſcern them, and this is argument enough to prove that ſiniſter reſpects can ne<g ref="char:EOLhyphen"/>ver prevaile with them to do unlawfull acts, <hi>viz.</hi> becauſe it can be no benefit to them (were it not the Kingdoms ſafety only that they aymd at) to ſpend their time, and hazard their lives and fortunes by ſteering in ſuch cruell ſtorms, for 'twere not wiſedome in them that would fiſh, to trouble the waters themſelves.</p>
+            <closer>
+               <salute>FAREWELL</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:110955:3"/>
+            <head>The Queſtion that is <hi>RESOLVED.</hi>
+            </head>
+            <p>WHether the right which the King hath to <hi>Hull,</hi> and all other Forts of ſtrength for the defence of the Kingdom be by diſcent from the Blood-Royall, or by way of truſt.</p>
+            <p>And for my part, I conceive He hath it by way of truſt: but to re<g ref="char:EOLhyphen"/>ſolve this queſtion, I ſhall take leave of my ſelfe to uſe my owne me<g ref="char:EOLhyphen"/>thod. Which ſhall be firſt to ſhew the ſtrongeſt arguments that can be urged by them of the contrary opinion, who ſtand ſo much upon the diſcent, as to drown the truſt; and afterwards I ſhall prove that notwithſtanding all that they can ſay, he hath it by way of truſt only.</p>
+            <p>Firſt then to argue for his diſcent thus I prove it: If He have it in His naturall capacity, then he hath it by diſcent; but He hath it in His naturall capacity, <hi>ergo,</hi>
+            </p>
+            <p>The conſequence will not be denied, for I Intend by His naturall capacity, as <hi>Charles</hi> the Sonne and Heire apparent of King <hi>Iames</hi> His Father of bleſſed memory; and if it be granted He hath it ſo, then ſurely the conſequence muſt ſtand good.</p>
+            <p>Then for the Minor, that He hath it in that capacity, thus I prove it.</p>
+            <p>If the Treaſon which he commits that keepes one of thoſe Forts, and levieth War againſt the King and His Liege people be againſt the King in His naturall capacity, then the minor is good; and that that Treaſon when any one commits, it is againſt him in that capacity, thus I prove it.</p>
+            <p>But I deſire not to be miſtaken, for I aym not at the worthy act of Sir <hi>Iohn Hotham;</hi> for I hold it not levying of War within the letter of the Statute of 25. <hi>Ed.</hi> 3. if it were an offenc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t might taſt of Trea<g ref="char:EOLhyphen"/>ſon (but I hold it is not) yet being out of the words of that Statute the Parliament and not the King himſelfe nor his <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ge are to Judge of it by vertue of a clauſe in that act by which their <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erdeceſſ<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve re<g ref="char:EOLhyphen"/>ſerved that power for them:</p>
+            <p>But to goe forward with what I am to prove, <hi>viz.</hi> that ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch a Tea<g ref="char:EOLhyphen"/>ſon as is mentioned before, nay any Treaſon is againſt him in his na<g ref="char:EOLhyphen"/>turall
+<pb n="6" facs="tcp:110955:4"/> capacity: it appeares by the forme of indictment for Treaſon, for they muſt and doe alwaies conclude <hi>contra ligeantiae ſuae debitum</hi> and ſo <hi>Cooke lib.</hi> 7. <hi>Calvins</hi> caſe: which words proove that Treaſon is againſt him to whom ligeance is due, and then pray if it be againſt him to whom ligeance is due, is it not againſt the natu<g ref="char:EOLhyphen"/>rall King, that is, againſt the King in his naturall capacity? for all that knowes but the definition of the politique capacity will confeſſe that ligeance or homage cannot bee done to ſuch a body as is inviſi<g ref="char:EOLhyphen"/>ble.</p>
+            <p>And therefore of an Alien enemy come and poſſeſſe himſelfe of any of the Kings Forts, and levies warre againſt him, and then is taken, this is Treaſon and yet our law in this caſe doth refuſe to try him as out of its juriſdiction becauſe he cannot bee tried by indictment, for being no liege man to the King, the indictment cannot conclude that it was <hi>contra ligeantiae ſuae debitum:</hi> and therefore hee ſhall bee put to death by Matiall law: and ſo it was in 15. <hi>H.</hi> 7. <hi>Parking War<g ref="char:EOLhyphen"/>becks</hi> caſe, who being an Alien borne in <hi>Flanders</hi> fained himſelfe to be one of the ſonnes of <hi>Edward</hi> the Fourth, and invaded this Realme with great power, with an intent to take upon him the dignity royall: But being taken in the warre, it was reſolved by the Juſtices that hee could not be puniſhed by the Common Law; but before the Con<g ref="char:EOLhyphen"/>ſtable and Marſhall (who had ſpeciall commiſſion to heare and deter<g ref="char:EOLhyphen"/>mine the ſame according to Marſhall Law) he was ſentenced to bee drawne, hang'd, and quartered, which was done and executed accor<g ref="char:EOLhyphen"/>dingly: and this appeares in the booke of <hi>Griffeth</hi> Attorney Gene<g ref="char:EOLhyphen"/>rall and in the booke of <hi>Hobert</hi> Generall to <hi>Henry</hi> the Seventh, and you may reade it likewiſe in <hi>Calvins</hi> caſe <hi>Cooke Lib.</hi> 7. <hi>fol.</hi> 6. <hi>b.</hi> and caſes to the ſame purpoſe may reade in 4. <hi>Mar. br.</hi> 32. <hi>&amp;</hi> 3. <hi>&amp;</hi> 4. <hi>Ph. &amp; Mar. Dyer.</hi> 144.</p>
+            <p>I ſhall not raiſe arguments to prove that Ligeance is due to the King in his naturall capacity, as it was adiugded in 6. <hi>Iacobi</hi> neither ſhall I mention how that the words of the letters pattents of qenizti<g ref="char:EOLhyphen"/>on be that the Patentee ſhall behave himſelfe <hi>tanquam verus et fide<g ref="char:EOLhyphen"/>lis ligeus domini regis,</hi> which proves that ligeance is due to the King in his naturall capacity, for all this is not to my purpoſe, but becauſe the Kings Majeſty himſelfe whom I never think on but with reverence hath made uſe of the laſt argument, and others may and doe urge the for<g ref="char:EOLhyphen"/>mer, I ſhall ſert downe the definition of the Kings politipue capacity out of which the reader himſelfe (thgogh but of ſlender Iudgment) may have reaſon ſufficient to anſwer all the arguments hither to which ſeeme to be of ſuch force.</p>
+            <pb n="7" facs="tcp:110955:4"/>
+            <p>The definition of it is this, it is a body framed by the polocy of man, inviſible, immortall, not ſubject to any infirmity, nonnage, or in<g ref="char:EOLhyphen"/>fancy, ſo tis definid in <hi>Calvins</hi> caſe.</p>
+            <p>And who cannot gather a reaſon (from hence) ſufficient to deny the laſt Conſequence; and ſay that though treaſon commited againſt the King by keeping of thoſe ſorts from him be treaſon againſt his na<g ref="char:EOLhyphen"/>turall capacity, yet it doth not follow that he hath them, it hath capa<g ref="char:EOLhyphen"/>city: for the King hath but two capacities, his naturall and his polli<g ref="char:EOLhyphen"/>tique: now according to the definition of the latter their can be no treaſon committed againſt that cappacity it being an inanimate and inviſible body, therfore needs muſt indictments conclude the treaſon to be againſt the natuerall capacity; but if that ſhould bee a good conſequence that therefore he holds them in that capacity, then the next conſequence would be that hee might ſell them when hee pleaſe, which is directly againſt the Law, as was reſolved by the whole Par<g ref="char:EOLhyphen"/>liament in <hi>Ed.</hi> the thirds time, at which Parliament King <hi>Iohn</hi> his re<g ref="char:EOLhyphen"/>ſigning his Crowne and Kingdome of <hi>England</hi> to the Pope, being diſ<g ref="char:EOLhyphen"/>cuſſed, upon mature deliberation, the Lords both Spirituall and Tem<g ref="char:EOLhyphen"/>porall, and all the Commons reſolved with one accord that no King can put his Realme nor his people under ſuch ſubjection without their aſſent, and contrary to his oath.</p>
+            <p>The next argument may be urged is this, if immediately upon the death of any King the next heire is compleatly &amp; abſolutely King with<g ref="char:EOLhyphen"/>out any eſſentiall ceremony or act to be done, <hi>expoſt facto:</hi> then hee that comes in as next heire hath it by diſcent and not by way of truſt. But when a King dieth, immediately the next heire is King without any eſpeciall ceremony. <hi>ergo,</hi>
+            </p>
+            <p>For the Minor thus I prove it, it is expreſsly ſaid in <hi>Calvins</hi> caſe, that the King holds the Kingdome of <hi>England</hi> by birthright inherent by diſcent from the bloud Royall, whereupon ſucceſsion doth attend, and therefore tis uſually ſaid to the King his Heires and Succeſſors, where the word Heires is firſt named &amp; in <hi>primo Maria Dyer.</hi> 92. a. tis expreſsly ſaid, that the cuſtomes are annext to the Crowne, and the King hath an inheritance in them.</p>
+            <p>In the firſt yeare of King <hi>Iames</hi> his raigne if I miſtake not; before his Majeſties Coronation <hi>Watſon</hi> and Clarke Seminarie <hi>Preiſts,</hi> were of opinion that his Majeſtie was not compleat and abſolute King be<g ref="char:EOLhyphen"/>fore his Coronation: Now if that were not Law, the minor muſt needs fall for then though a right to the Crowne diſcended, yet it was in the power of others to make him compleatly King by turning his
+<pb n="8" facs="tcp:110955:5"/> poſſeſſion in Law (as it were) into an actuall poſſeſſion, or elſe to hin<g ref="char:EOLhyphen"/>der him from ragining: But you ſhall find it reſolved (by all the Iudg<g ref="char:EOLhyphen"/>es of England then being) con rary to the opinion of thoſe Preiſts that preſently by the deſcent his M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jeſty was compleatly and abſo<g ref="char:EOLhyphen"/>lutly King without that cerimony, and that Corronation was but a Roy<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll ornament and outward ſollemniſation of the diſcent: for ex<g ref="char:EOLhyphen"/>ample.</p>
+            <p>You ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll find that <hi>Henry</hi> the ſixt was not crownd untill the eight yeare of h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Raigne: and yet divers men before his Coronation were attain ed of treaſon, which clearly proves he was King before that cerimony was performed, for if he had not beene King how could any man h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve beene attainted of treaſon for treaſon is a breach of allege<g ref="char:EOLhyphen"/>ance and if there had been n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> King there could be no allegeance due, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f no ligeance had been due, no bre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch of it could be made, and then no treaſon; and this is made manifeſt by the reports of the 5. 6. 7. years of the ſame King which you may read at large in <hi>Cooks</hi> reports <hi>lib.</hi> 7. <hi>fol.</hi> 11. a.</p>
+            <p>Another argument to prove that when any King of <hi>Eng.</hi> dies, his next Heire is King preſently by diſcent, without any ceremony, may be this: If he ſhould not be King preſently upon the death of the Father or Ancſtour, but muſt ſtay for ſome other ceremony to be done; then there would be an <hi>interregnum</hi> in <hi>Eng.</hi> which the Laws will not ſuffer.</p>
+            <p>And to prove that the Laws do not ſuffer an <hi>inter regnum,</hi> 'tis eaſily gathered from the caſe in 9. <hi>E.</hi> 4. 51. where it is ſayd, that if the King be ſeized of land by a defeaſeable title, and dieth ſeizd this diſcent ſhall toll the entry of him that hath right, which proves that he that is next King coming in as Son, hath it by diſcent, otherwiſe the entry of him that hath right could not be taken away: and it proves likewiſe, that he muſt not ſtay for His Majeſty till ſome Act or other be done, for then there would be an <hi>inter regnum</hi> till that Act or ceremony were paſt, and when that Act or ceremony were paſt, then he ſhould be in (as it were) from that Act, and then the entry of him that hath right cannot be taken away, and ſo is <hi>Litleton</hi> in his chap. of diſcents.</p>
+            <p>There is likewiſe another caſe in our books, from whence you may draw the ſame concluſion, viz. If the Prince commit treaſon or mur<g ref="char:EOLhyphen"/>der, he muſt be tried according to Law as well as another ſubject, for he is but a Subject for there can be but one King at the ſelf ſame time, in the ſelfe ſame Kingdome: But now if the King dyes before the Prince be tried the very immediate diſcent of the Crown purgeth him of his treaſon or murder, or what ever his fact be, ſo that he ſhall not be arraigned, or tried for it.</p>
+            <pb n="9" facs="tcp:110955:5"/>
+            <p>Which caſe proves that he hath the Crowne immediately upon the diſcent; for if there were any ceremony that were eſſentiall to making him King, that ceremony might be delaid and the Prince might be attainted.</p>
+            <p>If the Diſſeiſor of an Infant convey the Land to the King who di<g ref="char:EOLhyphen"/>eth ſeiſed, this is ſuch a diſcent as ſhall take away the entry of the Infant, and ſo are the Books of 34. H. 6. 34. and 45. Aſſ. pl. 6. &amp; <hi>Plowd. com.</hi> 234. which proves clearly the diſcent. tis part of the oath of allegiance which is uſed to this day in every Leet, <hi>That you ſhall be true and faithfull to our Soveraigne Lord King</hi> Charles <hi>and his heirs;</hi> which word <hi>heires,</hi> proves the diſcent.</p>
+            <p>And thus I have ſhewed you other arguments, which may be uſed to deſtroy the truſt: but according to my promiſe in the beginning, I muſt now ſhew where the fallacie and their miſtake lyes that uſe thoſe arguments. And it lyes in the conſequence; for though the King comes to the Crowne by diſcent, yet it does not follow that therefore he hath it not by way of truſt: for without doubt, the truſt deſcends with it and the truſt is that onely which he hath by diſcent: for, as I ſaid before, if the King had ſuch an eſtate by diſcent, as they conceive he hath, then he might ſell the Crowne, or diſpoſe of it as he pleaſed.</p>
+            <p>The Parliament did give <hi>Henry</hi> the eight power to diſpoſe of the Crowne to whom he pleaſed, by his Letters Patents or laſt Will; but when he intended to goe in perſon againſt France, and therefore deſired to have the Crowne ſetled becauſe he would not breake that truſt his people had repoſed in him; you ſhall finde that in 35. of that King, the Crowne was ſetled by a Parliament then holden; and in the Preamble of that Statute that King himſelf did acknowledge the truſt and confidence his people had formerly repoſed in him.</p>
+            <p>And to prove farther that a truſt doth deſcend to the King of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> with his Crown I ſhal ſhew how Kingoms firſt began, and I ſhal take a difference betweene Kingdomes ruled by royall government, and Kingdomes of politique governance: and that was the difference made in anſwer to the Prince, who demanded how it came to paſſe, <hi>quod Rex unus plebem ſuam reguliter tantum regere valeat, ſed regi alteri potestas hujuſmodi denegatur Forteſcue de laudibus legum An<g ref="char:EOLhyphen"/>gliae, cap.</hi> 10. and I hope the ſame difference which did ſatisfie the Prince, will ſatisfie any troubleſome ſpirit of theſe times.</p>
+            <p>For the firſt, the Kingdome ruled by royall government, I ſhall ſhew you how it firſt began, as it appeares by the Author laſt coted,
+<pb n="10" facs="tcp:110955:6"/> 
+               <hi>cap.</hi> 12. and it was thus; Men in times paſſed excelling in power, and being greedy of glory and dignity, did many times by plaine <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſubdue unto them their neighbours the Nations adjoyning, and compelled them to doe them ſervice, and to obey their com<g ref="char:EOLhyphen"/>mands, which commandements afterward they decreed to be unto theſe people very Lawes; and by long ſufferance of the ſame, the people ſo ſubdued, being by their ſubduers defended from the inju<g ref="char:EOLhyphen"/>ries of others, agreed and conſented to live under the Dominion of the ſame their ſubduers, thinking it better for them to be under the empire of one man, which might be able to defend them againſt o<g ref="char:EOLhyphen"/>thers, then to be in danger to be oppreſſed by all ſich as would offer them wrong by violence: and thoſe ſubduers thus ruling the people unto them ſubdued, tooke upon them to be called Rulers which our language tearmes Kings; <hi>reges a regendo, eorum quoque dominatus tantum regalis dictus fuit;</hi> and their rule or domination onely was named royall or Kingly, <hi>Forteſcu.</hi>
+            </p>
+            <p>Now in ſuch a Kingdom I beleeve no truſt was anext to the Crown, for that King uſurpt and compelled them to obedience; and tis ſuch a Kingdome that thoſe who are ſo violent againſt the Parliament doe imagine this Kingdome of <hi>England</hi> to be, or elſe would have it ſo. But outs is the Kingdome of Politique and Regall governance, and it hath raiſed it ſelfe into a body, whereof the King is the head; <hi>&amp; ut non poteſt caput corporis pheſi ei nervos ſuos commutare, nequè membris ſuis propriae vires &amp; propria ſanguinis alimenta denegare; ſic neque rex qui eſt caput corporis pollitici mutare poteſt leges corpo<g ref="char:EOLhyphen"/>ris illius, nec ejuſdem populi ſubstantias proprias ſubtrahere, recla<g ref="char:EOLhyphen"/>muntibus eis aut invitis, Fort. cap.</hi> 13. <hi>fol.</hi> 32.</p>
+            <p>
+               <hi>Sicut in naturali corpore, ut dicit Philoſophus, cor eſt primum vi<g ref="char:EOLhyphen"/>vens, habeus in ſe ſanguinem quem emittit in omnia ejus membru un<g ref="char:EOLhyphen"/>de illa vegetantur &amp; viuunt:</hi> So in the body politique (ſa th <hi>For<g ref="char:EOLhyphen"/>teſc. fol.</hi> 31.) the intent of the people is the firſt lively thing having within it blood, that is to ſay, politique proviſion for the utility and wealth of the ſame people, which it dealeth forth and imparteth as well to the head as to all the members of the ſame body, whereby the body is nouriſhed and maintained.</p>
+            <p>So that you ſee hereby that our Kingdome of <hi>England</hi> is not of a Royall Government onely, neither is the Crowne of ſo divine a temper as to enable the King to rule by the Law within his owne breſt; no you ſee the intent of the people is the <hi>primum vevens,</hi> which like the heart, <hi>emittit ſanguinem</hi> both to the head and all the mem<g ref="char:EOLhyphen"/>bers.</p>
+            <pb n="11" facs="tcp:110955:6"/>
+            <p>And thus the Kingdome of <hi>England</hi> out of <hi>Brutes</hi> retinue of the <hi>Troians</hi> which he firſt brought out of the coaſts of <hi>Italy</hi> and <hi>Greece,</hi> firſt grew to a politique and regall Dominion; <hi>&amp; ad tutelam legis ſubditor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, ac corum corporum ac bonorum, rex talis erectus. For<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> 32. and the ſame Author goes forward, <hi>&amp; ad hanc potestatem a popu<g ref="char:EOLhyphen"/>lo effluxam ipſe habet, quo non licet et potestate al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a populo ſuo Do<g ref="char:EOLhyphen"/>minari.</hi>
+            </p>
+            <p>And ſee the Prince himſelfe acknowledgeth as much to his Chan<g ref="char:EOLhyphen"/>cellour being ſatisfied with the difference before taken; for in the 14. chapter of the ſame Author fol. 34. ſayes the Prince, <hi>effugasti c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncellarie, declarationis tuae lumine tenebras, quibus obducta erat a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dmentis cridae:</hi> So that ſaid he, I doe moſt evidently ſee that no Nation did ever of their owne voluntary minde incorporate them<g ref="char:EOLhyphen"/>ſel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es into a Kingdome for any other intent, but onely to the end, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thereby they might with more ſafety then before maintaine t<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſelves <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d enjoy their goods from ſuch misfortunes and loſſes <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>od in feare of; for if they had not bin, ſaith he <hi>nullam ob<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>em ſuper ipſos rex hujuſmodi:</hi> which proves without <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cent of a truſt.</p>
+            <p>An<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> further proofe that our Kingdome is not of regall onely, but alſo of a politique governance: ſee <hi>Fort. fol,</hi> 25. <hi>b.</hi> where you may read word for word what I have penned. <hi>viz.</hi> the King of <hi>England</hi> cannot alter nor change the Lawes of his Realme at his pleaſure; for why? <hi>principatu namque nedum regali, ſed &amp; pollitico, ſuo populo Dominat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r.</hi> And were it otherwiſe, the King might take away the lives and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtates of any Subjects at his pleaſure; but in our Kingdome <hi>non ſtat <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ro ra<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>one voluntas.</hi>
+            </p>
+            <p>And as much may be gathered from the words of <hi>Severus</hi> the Emperour, who being at <hi>Yorke,</hi> and one lying proſtrate at his feet c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<g ref="char:EOLhyphen"/>ving pardon for ſome ſmall fact he had committed, in the midſt of his fury forbore to ſtrike, ſaying, tis not my hand muſt governe the Empire.</p>
+            <p>And the ſame Emperor ſhortly after ended his life in the City of <hi>Yorke</hi> with theſe words, I found the State troubleſome every where, and I leave it quiet even to the <hi>Britaines,</hi> and the Empire ſure and firme to my children if they be good, but unſure and weake if they be bad.</p>
+            <p>My Lord <hi>Cooke</hi> in the firſt part of his Inſtitutes, fol. 60. <hi>b.</hi> obſerves that <hi>Littleton</hi> ſpeakes of the Kings prerogative but twice in all his Booke, and in both places, ſaith <hi>Cooke,</hi> he makes it part of the Lawes
+<pb n="12" facs="tcp:110955:7"/> of <hi>England;</hi> ſo that hence we may gather, that though the working braines of theſe times plead his Prerogative to him, y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t that cannot enable him to doe what the Law forbids: for his Prerogative is but what power the Law gives him, and that power cannot be made greater without the aſſent of the whole Realme; <hi>Fort. fol.</hi> 40. <hi>ca.</hi> 18. and what is the reaſon of this our happineſſe, that the King cannot make new Lawes, dam old ones without the Subjects conſent, but this? becauſe our Kingdom is not governed with a power onely roy<g ref="char:EOLhyphen"/>all but alſo politique.</p>
+            <p>
+               <hi>Aristotle</hi> in 3. <hi>Pollitic.</hi> ſaith, <hi>melius eſt civitatem regi viro optimo quam lege optima:</hi> it is better for a City to be governed by a good King then by a good Law. But for as much as every King is not ſuch a man, therefore Saint <hi>Thomas,</hi> in the Booke which he wrote to the King of <hi>Cyprus</hi> of the governance of Princes, wiſheth the State of a Realm to be ſuch, that it may not be in the Kings power to oppreſſe his people with tyranny.</p>
+            <p>For my part I did not looke upon our gracious King when I coa<g ref="char:EOLhyphen"/>ted this; for of himſelfe I take him to be that <hi>vir optimus,</hi> were he not miſled and drawne to ſuch engagements as will ruine himſelfe, his poſterity and Kingdome, if not by thoſe of his beſt Councell pre<g ref="char:EOLhyphen"/>vented; I meane the Parliament, who are engaged both for the ſafe<g ref="char:EOLhyphen"/>ty of the Kings Majeſties perſon and poſterity, of themſelves and the whole Kingdome, to ſtrike all thoſe who perſwade his Maje<g ref="char:EOLhyphen"/>ſty to doe ſuch acts as make the Lawes ſeeme but as cobwebs, which by his Prerogotive may be ſtretched, nay broken.</p>
+            <p>Some there are which Object, that the Kings Majeſty hath bin pleaſed to paſſe many gracious Acts already, and therefore ſeeing we have ſo many tokens of his good intent, why ſhould he be doubted, or his intent queſtioned?</p>
+            <p>Truely the Parliament and all the reſt of his Subjects, muſt ac<g ref="char:EOLhyphen"/>knowledge his Fatherly care of them, in thoſe Acts expreſſed: But if he be perſwaded, nay reſolved to breake thoſe Acts againe by vi<g ref="char:EOLhyphen"/>olence, what are we the better to ſay we have beene happy in the making thoſe Acts, the breach of which is ten times a greater miſery? if a Father breeds his Sonne well, or allowes him well whileſt hee lives, but when hee dyes, leaves him nothing where<g ref="char:EOLhyphen"/>by both hee and his children, and his childrens children may be the better, ſurely the care and piety of a Father is not in him com<g ref="char:EOLhyphen"/>pleat. So Kings, if they make part of an age happy by governing
+<pb n="13" facs="tcp:110955:7"/> well, or making good Lawes, but at laſt breakes them againe, and does not leave them as Teſtaments, whereby a perpetuity of good may deſcend to their Countrey; they are but mortall and tranſi<g ref="char:EOLhyphen"/>tory benefactours.</p>
+            <p>I ſpeake not this to incenſe the Subject againſt their lawfull Prince, for I know no warrant for that: for, for his Majeſties pure ſelfe. His ſerious and often proteſtations command my Faith, both for his maintaining our Proteſtant Religion, and defence of his Subjects and their Liberttes; and I diſcerne his words actuated, his building or repairing of Temples, his late Proclamations a<g ref="char:EOLhyphen"/>gainſt Recuſants, his excluding them his Army that will not take the oath of Supremacy and Alleagiance, are for the firſt: his buil<g ref="char:EOLhyphen"/>ding of Shippes in theſe late times, and his paſſing the Act for the continuance of this Parliament, are teſtimonies for the ſecond: onely the danger is, if thoſe malignant ſpirits about him, ſhould prevaile with him (which I hope is impoſſible) to adde ill end<g ref="char:EOLhyphen"/>ings to thoſe good Acts, by changing the uſe they were preten<g ref="char:EOLhyphen"/>ded for.</p>
+            <p>Others there are, that grant the KING hath it by way of truſt, but yet Object, that by Law a truſt cannot be counter<g ref="char:EOLhyphen"/>manded; and therefore Sir <hi>John Hothams</hi> keeping of <hi>Hull</hi> was againſt Law.</p>
+            <p>To which I anſwere thus; I confeſſe that by law a truſt cannot be countermanded, but yet I ſhall take a difference between the truſt of a private mans eſtate, and a truſt of a kingdome; and if this difference ſhould not ſtand good, ſee what a miſchiefe would follow; and <hi>argumentum ab inconvenients</hi> is of great force in law, if that were a good argument, then our caſe in ſhort were but thus:</p>
+            <p>We have intruſted the King with the whole Kingdome, and this truſt cannot be countermanded by us againe, and if not then the Kings eſtate in the kingdome, is as good as abſolutely his owne in Fee, and if ſo, then he may doe what he will with the Crowne: and if this miſchiefe were remedileſſe, what eſtate or property had any man in his owne fortunes, when they all lay open to ſo great a hazzard.</p>
+            <p>Again, though for the avoydance of that miſchiefe, it might be thought countermandable; yet that Act of Sir <hi>John Hotham</hi> is not
+<pb n="14" facs="tcp:110955:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:110955:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="14" facs="tcp:110955:9"/> a countermande but rather a ſtrengthning of it: for by common preſumption, the King being but one cannot prie into the actions and intents of all thoſe that have procured his imployments ſo well as his Parliament may, for <hi>plus vident oculi quam oculus:</hi> and there<g ref="char:EOLhyphen"/>fore they finding ſuch treacherie and falſeneſſe in them (which the King either does not ſee, or elſe is wilfully impolliticke) thought it fit (as it was moſt ſeaſonable indeed) to imploy another whoſe faithfulneſſe might prevent what they intended againſt both King and Kingdome; to which truth ſo ſoone as his Majeſty ſhall give credit, and by that means they and the Kingdome be ſecured, his truſt will appear the ſame it ever was, and he more able to diſcharge that truſt repoſed in him.</p>
+            <p>Others there are that doe object the authority of Parliament to be much, but this is not binding which this Parliament does now, becauſe the King doth not joyne with them; for tis no compleat Parliament the head of that body being abſent.</p>
+            <p>But I ſhall prove by preſidents, and reaſon, upon which law is partly grounded that the Parliament have that power in them which they ſo carefully make uſe of.</p>
+            <p>I confeſſe my Lord <hi>Cooke</hi> in the firſt part of his Inſtitues, thus derives the word <hi>Praerogativa: a prae id eſt ante</hi> and <hi>rogare,</hi> and ſaith he, it carries with it this ſence, when an Act is paſſed by both houſes of Parliament, before it can be made a Law they muſt <hi>praerogare</hi> the Kings conſent; but this dirivation of the word does, not prove that the King hath an abſolute power of denying to paſſe any Bill that is brought him for the good of the Kingdom: but it ſignifies on his part aſwell, that he cannot of himſelfe enact any thing or lay any tax upon his Subject, but he muſt <hi>praerogare</hi> too, asking the conſent of the Parliament.</p>
+            <p>Beſides, though what they doe cannot be binding by way of Act without his conſent, yet by way of Ordinance it may; in <hi>term. Mi<g ref="char:EOLhyphen"/>cael.</hi> 21. <hi>E.</hi> 3. fol. 60. b. In a caſe touching the exemption of the Abby of Saint <hi>Edmons Berry</hi> from the Biſhop of <hi>Norwich,</hi> there was an Ordinance made by the Parliament without the King, and if you turne to the booke you ſhall finde theſe words in the judge<g ref="char:EOLhyphen"/>ment <hi>fuit ordeigne,</hi> which you may read likewiſe in <hi>Seldens</hi> title of honour: But if I ſhould admit that there were no law to prove their Act legall, yet ſure I am there is good reaſon for it.</p>
+            <p>As firſt from the words of the writ <hi>noſtro quibuſdam arduis rebus et
+<pb n="15" facs="tcp:110955:9"/> gotiis urgentibus ſtatu et diffentionem regni nostri Angliae concer<g ref="char:EOLhyphen"/>nentibus;</hi> which words <hi>rebus arduis et urgentibus negotiis</hi> proves they have power upon urgent occaſions to do that which at the time of their doing it, they had no law to enable them thereto; for their calling by writ is authorty to enable them to ſit in Parliament, and then their conſent is law enough to binde us, and therefore if the Parliament doe grant Subſidies by way of Ordinance and the Kings hand is never put to it, yet it is ſufficient enough to force a Paiment from us becauſe the Countries are bound by Indentures ſeald to the Sheriffe at the time of their election to ſtand to what they ſhall con<g ref="char:EOLhyphen"/>ſent to in Parliament whom they have choſen: but by way of Act6 it cannot force us, becauſe it cannot be pleaded as an Act but that upon a demurrer it will be overruled.</p>
+            <p>Now if the Parliament could do nothing but what they had a law to enable them to do, what need the Country ſeal Indentures to wand to what they doe, when as that law the Parliament went by, would force them to obey it without that waxen ceremony.</p>
+            <p>Beſides if the Parliament had not power to do an Act, to the do<g ref="char:EOLhyphen"/>ing of which there was no law at the time of their ſummons to ena<g ref="char:EOLhyphen"/>ble them; then what need a Parliament be cald at any time, for then any inferiour Court had had as much authority (upon the matter) as that: but I conceave neceſſity is the law they are to look at, fot they need not deferre the doing of that which is for the King<g ref="char:EOLhyphen"/>domes good, for want of a law or a preſident to ſteere by; for if in times paſt the grave law-makers had not done things according to their profound judgement, and as they ſaw fit without Preſidents, how ſhould any preſidents have been left to future ages, and to this preſent Parliament? but ſurely they did, and ſurely this Parlia<g ref="char:EOLhyphen"/>ment may, unleſſe any one can prove the power of Parliament to be abated, and leſſe now then in former times.</p>
+            <p>I agree if a Parliament ſhould aſſume to themſelves that power, to ſway every thing and never aske the Kings conſent, it were an abridgement of that prerogative the King hath in him by law; but there are many humble Petitions full of ſubmiſſion and alleagiance to his Majeſty that can prove this Parliament not guilty; were they not adjudged Traytors without tryall: But again, if the King for<g ref="char:EOLhyphen"/>ſake them, and deny to paſſe thoſe Bills they bring him for the good
+<pb n="16" facs="tcp:110955:10"/> of the Kingdome, I think neceſſity enables, nay commands them to doe it without him.</p>
+            <p>I ſhall prove it all by one example, the like I hope ſhall not bee heard of in our dayes; hath no man heard of a king depoſed by a Parliament? Surely yes, and what law had they for it that did it be<g ref="char:EOLhyphen"/>ſides convenience and the common good? and ſurely they did it without the Kings conſent too, or at leaſt he conſented whether he would or no, for if he had had an abſolute power of denying, and by that could have fruſtrated their endeavours, he would never have conſented to his own depoſing; which proves ſtrongly that they may do that which is for the good of the kingdom without the King if he refuſe to joyne with them.</p>
+            <p>But this I deſire not, and the Parliament intend it not as they have declared themſelves in ſeverall Declarations and Petitions; and I hope the moſt ignorantly violent of the vulgars, and the greateſt zealots of any Sect what ever, will wiſh ſo much good to our king<g ref="char:EOLhyphen"/>dome, as that it may long be governd by this our gracious King <hi>Charles</hi> and his poſterity, and that he may ſoon be free from thoſe cruell engagements and inconveniences which the malignant party hath drawne him into. This is my heart prayer, onely I uſed that great argument to prove a leſſer, to argue <hi>a mejori ad minus,</hi> for <hi>omn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> majus continet in ſe minus.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
